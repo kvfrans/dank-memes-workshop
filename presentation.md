@@ -1,3 +1,5 @@
+autoscale: true
+
 # [fit] Dank Memes
 # [fit] Workshop
 
@@ -39,6 +41,23 @@ or... That borritos [sic] was the dankness.
 ---
 
 ![fit](meme.png)
+
+---
+
+# Elements of a Great Meme
+
+- Meshing of picture and text
+- Current affairs, celebrities, popular culture
+- Relatable
+- Satirical
+- Punny/Funny
+- Different perspective
+- Surprise ending
+- Overt simplification, brevity, insightfulness and evocation of a sense of suspense and realization[^ ]
+
+[^ ]: Adapted from Quora.
+
+^ https://www.quora.com/What-are-some-elements-of-great-memes
 
 ---
 
